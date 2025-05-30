@@ -1,0 +1,11 @@
+{
+  "repo": "https://github.com/inlinefun/inlinefun.github.io",
+  "owner": {
+    "username": "inlinefun",
+    "discord": "inlinefun"
+  },
+  "records": {
+    "CNAME": "inlinefun.github.io"
+  },
+  "proxied": true
+}
